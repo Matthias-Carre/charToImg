@@ -1,0 +1,7 @@
+les chars sont ecris sur :
+    - 3 pixel pour le i/I
+    - 5 pixel pour: m/M ; T ; v/V
+    - 4 pixel pour le reste
+
+les Maj font 7 de haut
+les min font 10 de haut
